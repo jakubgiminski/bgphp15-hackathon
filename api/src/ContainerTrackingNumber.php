@@ -17,6 +17,9 @@ class ContainerTrackingNumber
         return new self(self::generateTrackingNumber());
     }
 
+
+    
+
     /**
      * @param string $trackingNumber
      *
